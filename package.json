@@ -1,5 +1,5 @@
 {
-  "name": "Nexter",
+  "name": "nexter",
   "version": "1.0.0",
   "description": "Nexter webpage",
   "main": "index.js",
@@ -22,6 +22,7 @@
     "postcss-cli": "^4.1.1"
   },
   "dependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "prettier": "^2.1.2"
   }
 }
